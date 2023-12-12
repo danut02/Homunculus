@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 97bcb185faaa59648b0fb0ff9bb5e546
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerAnim: {instanceID: 0}
+  - jumpAnimationClip: {fileID: 7400000, guid: 2571d7f9d099feb4b8e22b095b0e6eb0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

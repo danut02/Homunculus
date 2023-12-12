@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e054b4d2ee9d1124b94d602dd5bdc780
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - clipTitleText: {instanceID: 0}
+  - clipTimeText: {instanceID: 0}
+  - button: {instanceID: 0}
+  - startSprite: {instanceID: 0}
+  - stopSprite: {instanceID: 0}
+  - mixer: {fileID: 24100000, guid: fb2b44028bdeb87419ba0bf3c6bc450c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
